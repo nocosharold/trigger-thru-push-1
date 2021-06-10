@@ -23,4 +23,8 @@ describe("Survey Model", function(){
     });
 });
 
+<<<<<<< HEAD
 //testing jenkins
+=======
+//test jenkins
+>>>>>>> master
